@@ -1,4 +1,11 @@
-For this assignment you are going to "prettify" one of Mr. Blank's bland emails that he sends on a regular basis. You know the one's I am talking about, just plain text and no style.
+# HTML Email
+
+For this assignment you are going to create an email, similiar to one of Mr. Blank's emails that he sends on a regular basis, just plain text and no style.
+
+## Submission
+You will submit your email twice.
+1. Make sure all your files are uploaded here on GitHub.
+2. You will email me, ikilpatrick@schools.nyc.gov, your finished email.
 
 You will first need to research the process on how to send an html email.
 Then, you will need to find an old email from Mr. Blank and come up with a design that will work for the audience.
