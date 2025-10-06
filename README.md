@@ -1,11 +1,13 @@
 # HTML Email
 
-For this assignment you are going to create an email, similiar to one of Mr. Blank's emails that he sends on a regular basis, just plain text and no style.
+For this assignment you are going to create an email, similiar to one of Mr. Blank's emails that he sends on a regular basis, just plain text and no style. As a suggestion, a Halloween themed email might be fun. 💀👻🎃🦇
 
 ## Submission
 You will submit your email twice.
 1. Make sure all your files are uploaded here on GitHub.
-2. You will email me, ikilpatrick@schools.nyc.gov, your finished email.
+2. You will email me, ikilpatrick@schools.nyc.gov, your finished email.  
+
+Due Date: TBD
 
 ## Step 1
 ### Research
@@ -23,12 +25,12 @@ You will submit your email twice.
 
 ## Step 3
 ### Planning
-This is the most important time.  
-What is your email going to look like?  
-What is the theme, the purpose, the content?  
-What colors, borders, fonts, etc. are you going to use?  
-The more time you spend on this step, the easier the next step will be.  
-Use Figma/Canva to create a prototype of your email, focus on the details and the layout.
+- This is the most important time.  
+- What is your email going to look like?  
+- What is the theme, the purpose, the content?  
+- What colors, borders, fonts, etc. are you going to use?  
+- The more time you spend on this step, the easier the next step will be.  
+- Use Figma/Canva to create a prototype of your email, focus on the details and the layout.
 
 ## Step 4
 ### Coding
