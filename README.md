@@ -23,41 +23,22 @@ You will submit your email twice.
 
 ## Step 3
 ### Planning
-This is the most important time.
-What is your email going to look like?
-What is the theme, the purpose, the content?
-What colors, borders, fonts, etc. are you going to use?
-The more time you spend on this step, the easier the next step will be.
+This is the most important time.  
+What is your email going to look like?  
+What is the theme, the purpose, the content?  
+What colors, borders, fonts, etc. are you going to use?  
+The more time you spend on this step, the easier the next step will be.  
 Use Figma/Canva to create a prototype of your email, focus on the details and the layout.
 
 ## Step 4
 ### Coding
+If you did a thorough job on step 3, you should be able to jump right in to coding.
+Start writing html and css. Take your time, check as you go (use those two screens!), debug, do peer reviews, etc.
 
-# Free Responsive HTML Email Template
-
-Sometimes all you want is a really simple responsive HTML email template with a clear call-to-action button. Here it is.
-
-[See live preview](http://leemunroe.github.io/responsive-html-email-template/email.html).
-
-<img src="https://github.com/leemunroe/responsive-html-email-template/assets/15963/29595188-d4f3-4236-877d-6488c159140d" alt="Simple HTML Email Template" width="500">
-
-## Inline your CSS before sending
+## Tips
+### Inline your CSS before sending
 
 Email is notorious for inconsistent CSS support. Therefore you should always inline your CSS and send a test to yourself before sending.
-
-### Sending emails directly from your codebase or using a developer service?
-
-For an API service (like Mailgun, SendGrid, Postmark) **you need to inline the CSS before sending**. See `email-inlined.html` for an example.
-
-You can use this [Email CSS Inliner](https://htmlemail.io/inline/) and then [send a test email to yourself](https://postdrop.io) to verify it works as expected. 
-
-* Copy all of email.html
-* Paste the HTML as the source into the inliner
-* Copy the HTML output and use this as the email template you send
-
-### Sending emails using a marketing service like Mailchimp?
-
-Use the template `email.html` as is. They'll put the CSS inline for you when you put together your campaign.
 
 ## Images in email
 
@@ -90,6 +71,3 @@ Tested on mobile, desktop and web.
 * [Everything Web Developers Need To Know About Transactional Email](https://webdesign.tutsplus.com/articles/everything-developers-need-to-know-about-sending-transactional-email--cms-31759)
 * [Manage and Send Email Templates To Yourself](https://postdrop.io)
 * [Accessible Email Evaluation Tool](https://www.accessible-email.org/)
-
-This free template is part of a pack of responsive email templates for developers and startups available on [HTML Email](https://htmlemail.io).
-[![image](https://github.com/leemunroe/responsive-html-email-template/assets/15963/61d4a6d7-bd0e-4241-b4e5-d766162df192)](https://htmlemail.io)
