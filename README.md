@@ -7,17 +7,31 @@ You will submit your email twice.
 1. Make sure all your files are uploaded here on GitHub.
 2. You will email me, ikilpatrick@schools.nyc.gov, your finished email.
 
-You will first need to research the process on how to send an html email.
-Then, you will need to find an old email from Mr. Blank and come up with a design that will work for the audience.
+## Step 1
+### Research
+- What is an html email?
+- What do they look like? (You probably recieve multiple a day, check your inbox)
+- What are similar or common traits you see across various emails?
+- What features do they have?
+- What is the "goal" of each email you looked at? **The goal is the key!**
 
-After lots of planning and prepping, then you can begin to code your html email.
+## Step 2
+### Learning
+- How do you make an html email? (More info below)
+- Am I able to send one? Create a basic email and send it to yourself.
+- How do I use html and css to create this type of email? (More info below)
 
-All of this will be done on GitHub classroom, but you will also email me your final email.
+## Step 3
+### Planning
+This is the most important time.
+What is your email going to look like?
+What is the theme, the purpose, the content?
+What colors, borders, fonts, etc. are you going to use?
+The more time you spend on this step, the easier the next step will be.
+Use Figma/Canva to create a prototype of your email, focus on the details and the layout.
 
-This is due next Tuesday (15/10)!
-
-
-
+## Step 4
+### Coding
 
 # Free Responsive HTML Email Template
 
